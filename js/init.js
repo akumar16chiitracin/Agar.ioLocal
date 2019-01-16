@@ -1,0 +1,5 @@
+
+const MAX_VELOCITY = 30;
+const WORLD_SCALE = 10;
+const FOODCOUNT = 500 * WORLD_SCALE;
+const ENEMY_COUNT = 50 * WORLD_SCALE;
